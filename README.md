@@ -3,9 +3,15 @@
 
 <p>Welcome to my page! </br> I'm Sony, Frontend developer from indonesia</p>
 
-
--🌱 I’m currently learning </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonyfebrian)](https://github.com/anuraghazra/github-readme-stats)
+
+</br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonyfebrian&show_icons=true&theme=vue-dark)
+
+</br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sonyfebrian&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!--
 
 
