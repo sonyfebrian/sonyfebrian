@@ -27,7 +27,7 @@
 
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonyfebrian&show_icons=true&theme=vue-dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonyfebrian)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
 
